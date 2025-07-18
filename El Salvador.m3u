@@ -1,37 +1,37 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-name="Canal 2 El Salvador" group-title="El Salvador", Canal 2
+#EXTINF:-1,Canal 2 El Salvador
 http://dm.lion-ott.com:80/XMTz8336/Z3eS6553/265297
 
-#EXTINF:-1 tvg-name="Canal 4 El Salvador" group-title="El Salvador", Canal 4
+#EXTINF:-1,Canal 4 El Salvador
 http://dm.lion-ott.com:80/XMTz8336/Z3eS6553/265301
 
-#EXTINF:-1 tvg-name="Canal 6 El Salvador" group-title="El Salvador", Canal 6
+#EXTINF:-1,Canal 6 El Salvador
 http://dm.lion-ott.com:80/XMTz8336/Z3eS6553/265300
 
-#EXTINF:-1 tvg-name="Canal 8 El Salvador" group-title="El Salvador", Canal 8
+#EXTINF:-1,Canal 8 (Agape TV)
 https://www.agapetv8.com/live.m3u8
 
-#EXTINF:-1 tvg-name="Canal 10 El Salvador" group-title="El Salvador", Canal 10
+#EXTINF:-1,Canal 10 (TVES)
 https://canal10.gob.sv/en-vivo.m3u8
 
-#EXTINF:-1 tvg-name="Canal 12 El Salvador" group-title="El Salvador", Canal 12
+#EXTINF:-1,Canal 12 El Salvador
 http://dm.lion-ott.com:80/XMTz8336/Z3eS6553/265298
 
-#EXTINF:-1 tvg-name="Canal 21 El Salvador" group-title="El Salvador", Canal 21
+#EXTINF:-1,Canal 21 El Salvador
 https://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8
 
-#EXTINF:-1 tvg-name="Canal 33 El Salvador" group-title="El Salvador", Canal 33
-https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 19 El Salvador" group-title="El Salvador", Canal 19
+#EXTINF:-1,Canal 19 El Salvador
 https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/master.m3u8
 
-#EXTINF:-1 tvg-name="Canal 17 Taber TV" group-title="El Salvador", Canal 17
+#EXTINF:-1,Canal 33 El Salvador
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8
+
+#EXTINF:-1,Canal 17 Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 23 TVO" group-title="El Salvador", Canal 23
+#EXTINF:-1,Canal 23 TVO
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WOW TV El Salvador" group-title="El Salvador"
+#EXTINF:-1,WOW TV El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
